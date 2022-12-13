@@ -12,6 +12,8 @@ console.log greeting + name;
 ```
 */
 
+// Fixed code:
+
 const greeting = 'Hello ';
 const name = 'Makers';
 
